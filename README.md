@@ -18,7 +18,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-# Dashboard Application (React + Redux + Tailwind)
+<!-- # Dashboard Application (React + Redux + Tailwind)
 
 ## Overview
 A responsive dashboard app built with React, Redux Toolkit and TailwindCSS.  
@@ -34,4 +34,48 @@ Fetches data from a public API and displays it in a searchable, paginated table.
 1. Clone the repo
 2. Install:
    ```bash
-   npm install
+   npm install -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Dashboard Application (React + Redux + Tailwind)
+
+## Overview
+A responsive dashboard app built with React, Redux Toolkit, and TailwindCSS.  
+Fetches data from a public API and displays it in a searchable, paginated table. Includes error handling and simple navigation.
+
+## Features
+- Responsive dashboard layout with sidebar navigation
+- Table to display API data
+- Search / filter table data
+- Pagination for table data
+- Error handling for API calls
+
+## Tech Stack
+- React (Vite)
+- Redux Toolkit
+- TailwindCSS (v4)
+- Public API: https://jsonplaceholder.typicode.com/users
+
+## Setup (Local)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/dashboard-application.git
